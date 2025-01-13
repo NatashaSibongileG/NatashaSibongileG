@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NatashaSibongileG
-- 👀 I’m interested in programming ,artficial intelligence analysis and technology progress analysis 
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in programming, artificial intelligence analysis, and technology progress analysis 
+- 🌱 I’m a computer science graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at natashaganyaupfuu@gmail.com
 
